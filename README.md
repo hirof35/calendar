@@ -1,3 +1,4 @@
+
 📅 予定一覧付きスケジュール帳 (GUI Calendar Planner)
 Pythonの tkinter と tkcalendar を使用した、視覚的で直感的なスケジュール管理アプリケーションです。
 
@@ -68,3 +69,4 @@ JSON
 MIT License
 
 「予定を構造化し、日々の時間をエンジニアリングする。」
+<img width="558" height="908" alt="スクリーンショット 2026-05-09 140630" src="https://github.com/user-attachments/assets/c01ca5cf-a83a-459d-81a2-adc1d56cbeea" />
